@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [製作獨特的 Github Profile、用 WakaTime 紀錄你的日常](https://blog.vinny987.xyz/blog/2024/create-a-unique-github-profile-and-track-your-daily-activities-with-wakatime/)
 - [克服 Git 合併挑戰：從無關聯倉庫合併最新更新的實踐指南](https://blog.vinny987.xyz/blog/2024/overcoming-git-merge-challenges-a-practical-guide-to-merging-updates-from-unrelated-repositories/)
 - [Astro Blog - 改善 SEO](https://blog.vinny987.xyz/blog/2024/astro-blog-enhance-seo/)
 - [Git CLI Cheatsheet](https://blog.vinny987.xyz/blog/2024/git-cli-cheatsheet/)
 - [POC - Player 實作時間軸預覽懸停](https://blog.vinny987.xyz/blog/2024/poc-player-implementation-of-timeline-preview-on-hover/)
-- [POC - Player 整合廣告播放的可行性](https://blog.vinny987.xyz/blog/2024/poc-player-feasibility-of-integrating-ad-playback/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

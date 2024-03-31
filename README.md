@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [POC for playing MP4](https://blog.vinny987.xyz/blog/2024/poc3/)
+- [Markdown Cheatsheet](https://blog.vinny987.xyz/blog/2024/markdown-cheatsheet/)
+- [[QoE] Analyze the Mux Score and make improvements](https://blog.vinny987.xyz/blog/2024/poc2/)
+- [POC - Solution to integrate iframe with ads featured](https://blog.vinny987.xyz/blog/2024/poc-solution-to-integrate-iframe-with-ads-featured/)
 - [製作獨特的 Github Profile、用 WakaTime 紀錄你的日常](https://blog.vinny987.xyz/blog/2024/create-a-unique-github-profile-and-track-your-daily-activities-with-wakatime/)
-- [克服 Git 合併挑戰：從無關聯倉庫合併最新更新的實踐指南](https://blog.vinny987.xyz/blog/2024/overcoming-git-merge-challenges-a-practical-guide-to-merging-updates-from-unrelated-repositories/)
-- [Astro Blog - 改善 SEO](https://blog.vinny987.xyz/blog/2024/astro-blog-enhance-seo/)
-- [Git CLI Cheatsheet](https://blog.vinny987.xyz/blog/2024/git-cli-cheatsheet/)
-- [POC - Player 實作時間軸預覽懸停](https://blog.vinny987.xyz/blog/2024/poc-player-implementation-of-timeline-preview-on-hover/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

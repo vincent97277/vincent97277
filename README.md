@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CKA](https://blog.vinny987.xyz/blog/2024/cka/)
 - [POC for playing MP4](https://blog.vinny987.xyz/blog/2024/poc3/)
 - [Markdown Cheatsheet](https://blog.vinny987.xyz/blog/2024/markdown-cheatsheet/)
 - [[QoE] Analyze the Mux Score and make improvements](https://blog.vinny987.xyz/blog/2024/poc2/)
 - [POC - Solution to integrate iframe with ads featured](https://blog.vinny987.xyz/blog/2024/poc-solution-to-integrate-iframe-with-ads-featured/)
-- [製作獨特的 Github Profile、用 WakaTime 紀錄你的日常](https://blog.vinny987.xyz/blog/2024/create-a-unique-github-profile-and-track-your-daily-activities-with-wakatime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

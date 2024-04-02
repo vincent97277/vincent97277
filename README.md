@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Astro Blog - 修正 astro-yi 主題的 draft content leaded](https://blog.vinny987.xyz/blog/2024/astro-blog-fixed-the-issue-of-draft-content-leakage-in-the-astro-yi-theme/)
 - [Markdown Cheatsheet](https://blog.vinny987.xyz/blog/2024/markdown-cheatsheet/)
 - [POC - Solution to integrate iframe with ads featured](https://blog.vinny987.xyz/blog/2024/poc-solution-to-integrate-iframe-with-ads-featured/)
 - [製作獨特的 Github Profile、用 WakaTime 紀錄你的日常](https://blog.vinny987.xyz/blog/2024/create-a-unique-github-profile-and-track-your-daily-activities-with-wakatime/)
 - [克服 Git 合併挑戰：從無關聯倉庫合併最新更新的實踐指南](https://blog.vinny987.xyz/blog/2024/overcoming-git-merge-challenges-a-practical-guide-to-merging-updates-from-unrelated-repositories/)
-- [Astro Blog - 改善 SEO](https://blog.vinny987.xyz/blog/2024/astro-blog-enhance-seo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

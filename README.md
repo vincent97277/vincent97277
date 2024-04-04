@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [看完就學會 Tmux](https://blog.vinny987.xyz/blog/2024/learn-tmux-as-soon-as-you-finish-watching/)
+- [Git 探討 - merge 和 rebase](https://blog.vinny987.xyz/blog/2024/exploring-git-merge-and-rebase/)
+- [開始使用 Tmux](https://blog.vinny987.xyz/blog/2024/start-using-tmux/)
 - [Astro Blog - 修正 astro-yi 主題的 draft content leaded](https://blog.vinny987.xyz/blog/2024/astro-blog-fixed-the-issue-of-draft-content-leakage-in-the-astro-yi-theme/)
 - [Markdown Cheatsheet](https://blog.vinny987.xyz/blog/2024/markdown-cheatsheet/)
 - [POC - Solution to integrate iframe with ads featured](https://blog.vinny987.xyz/blog/2024/poc-solution-to-integrate-iframe-with-ads-featured/)
-- [製作獨特的 Github Profile、用 WakaTime 紀錄你的日常](https://blog.vinny987.xyz/blog/2024/create-a-unique-github-profile-and-track-your-daily-activities-with-wakatime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

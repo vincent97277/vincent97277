@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [POC - 為 Web Player 提供 mp4 支援 &lpar;研究篇&rpar;](https://blog.vinny987.xyz/blog/2024/poc-how-to-provide-mp4-support-for-a-web-player-research/)
 - [情境題 - 透過 mux data 分析優化串流](https://blog.vinny987.xyz/blog/2024/case-study-optimizing-streaming-through-mux-data-analysis/)
 - [Git 探討 - merge 和 rebase](https://blog.vinny987.xyz/blog/2024/exploring-git-merge-and-rebase/)
 - [開始使用 Tmux](https://blog.vinny987.xyz/blog/2024/start-using-tmux/)
 - [Astro Blog - 修正 astro-yi 主題的 draft content leaded](https://blog.vinny987.xyz/blog/2024/astro-blog-fixed-the-issue-of-draft-content-leakage-in-the-astro-yi-theme/)
-- [Markdown Cheatsheet](https://blog.vinny987.xyz/blog/2024/markdown-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

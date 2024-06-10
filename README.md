@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS-CLI - 修改特定 Policy &amp; Hands on](https://blog.vinny987.xyz/blog/2024/aws-cli-modify-a-specific-policy-hands-on/)
+- [AWS STS &amp; Hands on](https://blog.vinny987.xyz/blog/2024/aws-sts-hands-on/)
 - [Linux file permission Overview](https://blog.vinny987.xyz/blog/2024/linux-file-permission-overview/)
 - [GA4 快速使用教學](https://blog.vinny987.xyz/blog/2024/quick-guide-to-using-ga4/)
 - [CKA 證照考試心得](https://blog.vinny987.xyz/blog/2024/my-experience-taking-the-cka-certification-exam/)
-- [POC - 為 Web Player 提供 mp4 支援 &lpar;研究篇&rpar;](https://blog.vinny987.xyz/blog/2024/poc-how-to-provide-mp4-support-for-a-web-player-research/)
-- [情境題 - 透過 mux data 分析優化串流](https://blog.vinny987.xyz/blog/2024/case-study-optimizing-streaming-through-mux-data-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

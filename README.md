@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS-CLI - 修改特定 Policy &amp; Hands on](https://blog.vinny987.xyz/blog/2024/aws-cli-modify-a-specific-policy-hands-on/)
+- [AWS Solution Architect Associate &lpar;SAA-C03&rpar; 考試重點與心得](https://blog.vinny987.xyz/blog/2024/key-points-and-insights-on-the-aws-solution-architect-associate-saa-c03-exam/)
+- [AWS CLI - 修改特定 Policy &amp; Hands on](https://blog.vinny987.xyz/blog/2024/aws-cli-modify-a-specific-policy-hands-on/)
 - [AWS STS &amp; Hands on](https://blog.vinny987.xyz/blog/2024/aws-sts-hands-on/)
 - [Linux file permission Overview](https://blog.vinny987.xyz/blog/2024/linux-file-permission-overview/)
 - [GA4 快速使用教學](https://blog.vinny987.xyz/blog/2024/quick-guide-to-using-ga4/)
-- [CKA 證照考試心得](https://blog.vinny987.xyz/blog/2024/my-experience-taking-the-cka-certification-exam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -39,16 +39,16 @@ Sunday                   33 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Obsidian                 10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Astro** 
@@ -64,7 +64,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2024 00:55:01 UTC
+ Last Updated on 16/09/2024 00:52:35 UTC
 <!--END_SECTION:waka-->
 
 <!--

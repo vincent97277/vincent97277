@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [鐵人賽系列文：都什麼年代了，還在學 Kubernetes](https://www.vinny987.xyz/blog/2024/ithome-ironman-2024-thoughts/)
 - [使用 ShareX 快速製作有漸層背景的漂亮截圖](https://www.vinny987.xyz/blog/2024/use-sharex-to-quickly-create-beautiful-screenshots-with-gradient-backgrounds/)
 - [使用 Gemini Pro API 加強沉浸式翻譯](https://www.vinny987.xyz/blog/2024/enhance-immersive-translation-using-the-gemini-pro-api/)
 - [使用 WebDav 同步靜讀天下讀書進度](https://www.vinny987.xyz/blog/2024/use-webdav-to-sync-reading-progress-on-moon-app/)
 - [AWS Solution Architect Associate &lpar;SAA-C03&rpar; 考試重點與心得](https://www.vinny987.xyz/blog/2024/key-points-and-insights-on-the-aws-solution-architect-associate-saa-c03-exam/)
-- [AWS CLI - 修改特定 Policy &amp; Hands on](https://www.vinny987.xyz/blog/2024/aws-cli-modify-a-specific-policy-hands-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Windsurf IDE 實戰：打造自己的 Twitter &lpar;2&rpar;](https://www.vinny987.xyz/blog/2024/practical-windsurf-ide-building-your-own-twitter-2/)
 - [從 Linux 基礎實現 Docker Bridge 網路：一步步理解容器通訊 &lpar;1&rpar;](https://www.vinny987.xyz/blog/2024/building-docker-style-bridge-networks-from-scratch-a-linux-network-deep-dive-1/)
-- [WindSurf IDE 實戰：打造自己的 Twitter &lpar;1&rpar;](https://www.vinny987.xyz/blog/2024/practical-windsurf-ide-building-your-own-twitter-1/)
+- [Windsurf IDE 實戰：打造自己的 Twitter &lpar;1&rpar;](https://www.vinny987.xyz/blog/2024/practical-windsurf-ide-building-your-own-twitter-1/)
 - [解決 Windows 下使用 git diff 產生的 Patch 編碼驗證問題](https://www.vinny987.xyz/blog/2024/fixing-git-patch-encoding-validation-issues-when-using-git-diff-on-windows/)
 - [使用 Cloudflare Tunnel 實現安全的內網穿透：從零開始的完整架設指南](https://www.vinny987.xyz/blog/2024/secure-local-server-exposure-with-cloudflare-tunnel-a-complete-setup-guide-from-scratch/)
-- [當 Deploy 按鈕摧毀了一切：Git 版本控制的修復之旅](https://www.vinny987.xyz/blog/2024/when-deploy-button-breaks-everything-a-git-recovery-journey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

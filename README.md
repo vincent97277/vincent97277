@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [使用 Zeabur 部署 Umami 分析工具：從 Docker Compose 到 PaaS 的實作經驗](https://www.vinny987.xyz/blog/2024/deploying-umami-analytics-on-zeabur-from-docker-compose-to-paas-implementation/)
 - [雲端服務概念：什麼是 SaaS、IaaS 和 PaaS](https://www.vinny987.xyz/blog/2024/cloud-service-concepts-what-are-saas-iaas-and-paas/)
 - [從 Linux 基礎實現 Docker Bridge 網路：一步步理解容器通訊 &lpar;3&rpar;](https://www.vinny987.xyz/blog/2024/building-docker-style-bridge-networks-from-scratch-a-linux-network-deep-dive-3/)
 - [紀錄：Linux 使用技巧與知識](https://www.vinny987.xyz/blog/2024/notes-linux-tips-and-knowledge/)
 - [探索AI數據互操作性：Anthropic的MCP協議實作與挑戰](https://www.vinny987.xyz/blog/2024/exploring-interoperability-anthropic-s-model-context-protocol-in-practice/)
-- [WSL 網絡互聯指南：SSH 遠程訪問的全面配置與安全實踐](https://www.vinny987.xyz/blog/2024/wsl-network-interconnection-guide-comprehensive-ssh-remote-access-configuration-and-security-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

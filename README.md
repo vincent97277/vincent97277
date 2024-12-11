@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [探索容器資源限制：透過實驗理解 Docker 的 CPU 和記憶體調度 &lpar;2&rpar;](https://www.vinny987.xyz/blog/2024/exploring-container-resource-limits-understanding-docker-s-cpu-and-memory-scheduling-through-2/)
 - [探索容器資源限制：透過實驗理解 Docker 的 CPU 和記憶體調度 &lpar;1&rpar;](https://www.vinny987.xyz/blog/2024/exploring-container-resource-limits-understanding-docker-s-cpu-and-memory-scheduling-through-1/)
 - [使用 Zeabur 部署 Umami 分析工具：從 Docker Compose 到 PaaS 的實作經驗](https://www.vinny987.xyz/blog/2024/deploying-umami-analytics-on-zeabur-from-docker-compose-to-paas-implementation/)
 - [雲端服務概念：什麼是 SaaS、IaaS 和 PaaS](https://www.vinny987.xyz/blog/2024/cloud-service-concepts-what-are-saas-iaas-and-paas/)
 - [從 Linux 基礎實現 Docker Bridge 網路：一步步理解容器通訊 &lpar;3&rpar;](https://www.vinny987.xyz/blog/2024/building-docker-style-bridge-networks-from-scratch-a-linux-network-deep-dive-3/)
-- [紀錄：Linux 使用技巧與知識](https://www.vinny987.xyz/blog/2024/notes-linux-tips-and-knowledge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

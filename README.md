@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux 學習筆記 02：Bash 括號與重導向](https://www.vinny987.xyz/blog/2025/linux-notes-02-bash-brackets-and-redirection/)
 - [透過 Zeabur Template 打造 Remark42 評論系統：完整部署與設定指南](https://www.vinny987.xyz/blog/2024/building-remark42-with-zeabur-template-a-complete-guide-to-deployment-and-configuration/)
 - [GenAI 新選擇：馬克斯的 Grok API 配置與 Chatbox 整合](https://www.vinny987.xyz/blog/2024/new-genai-frontier-elon-musk-s-grok-api-configuration-and-chatbox-integration/)
 - [探索容器資源限制：透過實驗理解 Docker 的 CPU 和記憶體調度 &lpar;2&rpar;](https://www.vinny987.xyz/blog/2024/exploring-container-resource-limits-understanding-docker-s-cpu-and-memory-scheduling-through-2/)
 - [探索容器資源限制：透過實驗理解 Docker 的 CPU 和記憶體調度 &lpar;1&rpar;](https://www.vinny987.xyz/blog/2024/exploring-container-resource-limits-understanding-docker-s-cpu-and-memory-scheduling-through-1/)
-- [使用 Zeabur 部署 Umami 分析工具：從 Docker Compose 到 PaaS 的實作經驗](https://www.vinny987.xyz/blog/2024/deploying-umami-analytics-on-zeabur-from-docker-compose-to-paas-implementation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

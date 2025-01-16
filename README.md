@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WSL 筆記：共享網路命名空間特性](https://www.vinny987.xyz/blog/2025/wsl-notes-shared-network-namespace-behavior/)
 - [從 Linux 基礎實現 Docker Bridge 網路：一步步理解容器通訊 &lpar;6&rpar;](https://www.vinny987.xyz/blog/2025/building-docker-style-bridge-networks-from-scratch-a-linux-network-deep-dive-6/)
 - [從 Linux 基礎實現 Docker Bridge 網路：一步步理解容器通訊 &lpar;5&rpar;](https://www.vinny987.xyz/blog/2025/building-docker-style-bridge-networks-from-scratch-a-linux-network-deep-dive-5/)
 - [從 Linux 基礎實現 Docker Bridge 網路：一步步理解容器通訊 &lpar;4&rpar;](https://www.vinny987.xyz/blog/2025/building-docker-style-bridge-networks-from-scratch-a-linux-network-deep-dive-4/)
 - [Linux 學習筆記 02：Bash 括號與重導向](https://www.vinny987.xyz/blog/2025/linux-notes-02-bash-brackets-and-redirection/)
-- [透過 Zeabur Template 打造 Remark42 評論系統：完整部署與設定指南](https://www.vinny987.xyz/blog/2024/building-remark42-with-zeabur-template-a-complete-guide-to-deployment-and-configuration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

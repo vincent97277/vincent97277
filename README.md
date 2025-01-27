@@ -1,10 +1,10 @@
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [在本地運行 DeepSeek R1：整合 VS Code 開發環境](https://www.vinny987.xyz/blog/2025/running-deepseek-r1-locally-vs-code-integration/)
 - [使用 Vagrant 在本地模擬 AWS VPC 架構：NAT Gateway 與 EC2 實例配置指南](https://www.vinny987.xyz/blog/2025/simulating-aws-vpc-architecture-locally-with-vagrant-a-guide-to-nat-gateway-and-ec2-instance-configuration/)
 - [Linux 筆記：看懂 ip route 與 route](https://www.vinny987.xyz/blog/2025/linux-notes-understanding-ip-route-and-route/)
 - [WSL 筆記：共享網路命名空間特性](https://www.vinny987.xyz/blog/2025/wsl-notes-shared-network-namespace-behavior/)
 - [從 Linux 基礎實現 Docker Bridge 網路：一步步理解容器通訊 &lpar;6&rpar;](https://www.vinny987.xyz/blog/2025/building-docker-style-bridge-networks-from-scratch-a-linux-network-deep-dive-6/)
-- [從 Linux 基礎實現 Docker Bridge 網路：一步步理解容器通訊 &lpar;5&rpar;](https://www.vinny987.xyz/blog/2025/building-docker-style-bridge-networks-from-scratch-a-linux-network-deep-dive-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -1,4 +1,4 @@
-# Latest Blog Posts
+# Latest Blog Posts (Blog is being migrated)
 <!-- BLOG-POST-LIST:START -->
 - [在沉浸式翻譯中使用 Ollama 翻譯服務](https://www.vinny987.xyz/blog/2025/use-ollama-translation-service-in-immersive-translate/)
 - [在本地運行 DeepSeek R1：整合 VS Code 開發環境](https://www.vinny987.xyz/blog/2025/running-deepseek-r1-locally-vs-code-integration/)
